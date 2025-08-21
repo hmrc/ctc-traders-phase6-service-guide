@@ -17,6 +17,7 @@ dist
 /.settings
 *.iws
 /.bsp
+.batect/caches/
 node_modules/
 npm-debug.log
 yarn-debug.log
